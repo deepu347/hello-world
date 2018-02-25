@@ -22,6 +22,7 @@ class StringExam {
 	public static void main(String args[]) {
 
 		String input = "Hello world";
+system.out.println("chalo");
 
 		String[] abc = input.split(" ");
 
